@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to SE Group 28
 </ul>
 
 <h3>How can I contribute</h3>
-<b id="section1"> Reporting bugs</b>
+<h3 id="section1"> Reporting bugs</h3>
 <p>This section guides you through submitting a bug report for SE Group 28. </p>
 
 When you are creating a bug report, please include as many details as possible to understand the issue.
