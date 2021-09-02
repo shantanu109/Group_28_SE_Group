@@ -13,8 +13,8 @@ The following is a set of guidelines for contributing to SE Group 28
 </ul>
 
 <h3>How can I contribute</h3>
-<h4 id="section1"> Reporting bugs</h4>
-<p>This section guides you through submitting a bug report for SE Group 28. 
+<h3 id="section1"> Reporting bugs</h3>
+This section guides you through submitting a bug report for SE Group 28. 
 
 When you are creating a bug report, please include as many details as possible to understand the issue.
   
@@ -26,7 +26,7 @@ When you are creating a bug report, please include as many details as possible t
   <li><b>Provide specific examples to demonstrate the steps.</b> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.</li>
   <li><b>If the problem is related to performance or memory.</b></li>
     <li><b>If the problem wasn't triggered by a specific action</b>, describe what you were doing before the problem happened and share more information using the guidelines below.</li>
-  </p>
-<h4 id="section2"> Suggesting Enhancements</h4>
-<h4 id="section3"> Your First Code Contribution</h4>
-<h4 id="section4"> Pull Requests</h4>
+  
+<h3 id="section2"> Suggesting Enhancements</h3>
+<h3 id="section3"> Your First Code Contribution</h3>
+<h3 id="section4"> Pull Requests</h3>
