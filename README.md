@@ -28,5 +28,5 @@ Print Weird if the number is weird. Otherwise, print Not Weird.
 - Shantanu Pandey  [ spandey4@ncsu.edu ]
 - Urmi Pathak [ upathak@ncsu.edu ]
 - Leanne Serrao [ lserrao@ncsu.edu ]
-- Sahil Nande [ vgarg4@ncsu.edu ]
+- Sahil Nande [ snande@ncsu.edu ]
 - Varun Garg [ vgarg4@ncsu.edu ]
