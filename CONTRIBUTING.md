@@ -8,8 +8,7 @@ The following is a set of guidelines for contributing to SE Group 28
 <ul>
   <li><a href="#section1" >Reporting Bugs</a></li>
   <li><a href="#section2">Suggesting Enhancements</a></li>
-  <li><a href="#section3">Your First Code Contribution</a></li>
-  <li><a href="#section4">Pull Requests</a></li>
+
 </ul>
 
 <h3>How can I contribute</h3>
@@ -29,5 +28,8 @@ When you are creating a bug report, please include as many details as possible t
   </ul>
   
 <h3 id="section2"> Suggesting Enhancements</h3>
-<h3 id="section3"> Your First Code Contribution</h3>
-<h3 id="section4"> Pull Requests</h3>
+This section guides you through submitting a suggestion for SE Group 28, including completely new features and minor improvements to existing functionality. 
+
+Enhancement suggestions are tracked as GitHub issues. After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the information like title, step-by-step description, specific examples.
+Giving more detailed information will help us understand the suggestion better.
+
