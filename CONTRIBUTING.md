@@ -22,10 +22,10 @@ When you are creating a bug report, please include as many details as possible t
   Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository.
   Explain the problem and include additional details to help maintainers reproduce the problem:
   <ul>
-  <li><h6>Use a clear and descriptive title</h6> for the issue to identify the problem.</li>
-  <li><h6>Provide specific examples to demonstrate the steps.</h6> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.<li>
-  <li><h6>If the problem is related to performance or memory.</h6></li>
-    <li>If the problem wasn't triggered by a specific action</h6>, describe what you were doing before the problem happened and share more information using the guidelines below.</li>
+  <li><h5>Use a clear and descriptive title</h5> for the issue to identify the problem.</li>
+  <li><h5>Provide specific examples to demonstrate the steps.</h5> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.<li>
+  <li><h5>If the problem is related to performance or memory.</h5></li>
+    <li><h5>If the problem wasn't triggered by a specific action</h5>, describe what you were doing before the problem happened and share more information using the guidelines below.</li>
   </p>
 <h4 id="section2"> Suggesting Enhancements</h4>
 <h4 id="section3"> Your First Code Contribution</h4>
