@@ -1,6 +1,6 @@
 import unittest
 import sys
-sys.path.append('../code')
+sys.path.append('code')
 
 import program
 
