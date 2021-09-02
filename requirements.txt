@@ -1,5 +1,1 @@
-os
-random
-re
-sys
-unittest
+six == 1.15.0
