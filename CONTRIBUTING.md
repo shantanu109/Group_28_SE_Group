@@ -13,12 +13,12 @@ The following is a set of guidelines for contributing to SE Group 28
 </ul>
 
 <h3>How can I contribute</h3>
-<h3 id="section1"> Reporting bugs</h3>
+<b id="section1"> Reporting bugs</b>
 This section guides you through submitting a bug report for SE Group 28. 
 
 When you are creating a bug report, please include as many details as possible to understand the issue.
   
-  <h5>How Do I Submit A Bug Report?</h5>
+  <b>How Do I Submit A Bug Report?</b>
   Bugs are tracked as GitHub issues. After you've determined which repository your bug is related to, create an issue on that repository.
   Explain the problem and include additional details to help maintainers reproduce the problem:
   <ul>
