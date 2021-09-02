@@ -28,8 +28,8 @@ When you are creating a bug report, please include as many details as possible t
   </ul>
   
 <h3 id="section2"> Suggesting Enhancements</h3>
-This section guides you through submitting a suggestion for SE Group 28, including completely new features and minor improvements to existing functionality. 
+This section guides you through submitting a suggestion for SE Group 28, including completely new features and minor improvements to existing functionality. <br>
 
-Enhancement suggestions are tracked as GitHub issues. After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the information like title, step-by-step description, specific examples.
+Enhancement suggestions are tracked as GitHub issues. After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the information like title, step-by-step description, specific examples.<br>
 Giving more detailed information will help us understand the suggestion better.
 
