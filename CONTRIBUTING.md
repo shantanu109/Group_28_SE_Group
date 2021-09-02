@@ -23,9 +23,9 @@ When you are creating a bug report, please include as many details as possible t
   Explain the problem and include additional details to help maintainers reproduce the problem:
   <ul>
   <li><b>Use a clear and descriptive title</b> for the issue to identify the problem.</li>
-  <li><h5>Provide specific examples to demonstrate the steps.</h5> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.<li>
-  <li><h5>If the problem is related to performance or memory.</h5></li>
-    <li><h5>If the problem wasn't triggered by a specific action</h5>, describe what you were doing before the problem happened and share more information using the guidelines below.</li>
+  <li><b>Provide specific examples to demonstrate the steps.</b> Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If   you're providing snippets in the issue, use Markdown code blocks.</li>
+  <li><b>If the problem is related to performance or memory.</b></li>
+    <li><b>If the problem wasn't triggered by a specific action</b>, describe what you were doing before the problem happened and share more information using the guidelines below.</li>
   </p>
 <h4 id="section2"> Suggesting Enhancements</h4>
 <h4 id="section3"> Your First Code Contribution</h4>
