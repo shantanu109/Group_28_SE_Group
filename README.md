@@ -14,6 +14,16 @@ If ***n*** is even and in the inclusive range of  to , **print Weird**
 
 If ***n*** is even and greater than , **print Not Weird**
 
+### Input Format:
+A single line containing a positive integer, ***n***
+
+### Constraints:
+1<= ***n*** <= 100
+
+### Output Format:
+
+Print Weird if the number is weird. Otherwise, print Not Weird.
+
 ## Authors
 - Shantanu Pandey  [ spandey4@ncsu.edu ]
 - Urmi Pathak [ upathak@ncsu.edu ]
