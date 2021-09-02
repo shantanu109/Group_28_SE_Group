@@ -13,7 +13,7 @@ The following is a set of guidelines for contributing to SE Group 28
 </ul>
 
 <h3>How can I contribute</h3>
-<p id="section1" Reporting bugs</p>
+<div id="section1" Reporting bugs</div>
 <h1 id="section2"> Suggesting Enhancements</h1>
 <h1 id="section3"> Your First Code Contribution</h1>
 <h1 id="section4"> Pull Requests</h1>
